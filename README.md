@@ -12,3 +12,6 @@ git remote add origin https://github.com/Sakuard/course.git
 git branch -M main
 git pull origin main
 ```
+git add .
+git commit -m "{msg}"
+git push origin main
